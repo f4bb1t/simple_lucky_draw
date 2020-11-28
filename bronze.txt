@@ -1,0 +1,5 @@
+milktea, 5
+tiger beer, 5
+burger, 5
+T-shirt, 15
+shoes, 30

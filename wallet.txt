@@ -1,0 +1,4 @@
+bronze: 38
+diamond: 1
+golden: 12
+silver: 19

@@ -1,0 +1,3 @@
+iPhone13, 10
+Tesla Car, 100
+macBook M1, 20
